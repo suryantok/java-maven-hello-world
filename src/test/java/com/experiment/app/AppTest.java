@@ -1,4 +1,4 @@
-package com.suryanto.app;
+package com.experiment.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package com.suryanto.app;
+package com.experiment.app;
 
 /**
  * Hello world!
